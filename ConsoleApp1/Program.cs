@@ -120,6 +120,16 @@ namespace ConsoleApp
                             choice = false;
                         }
                         break;
+                    case "7":
+                        {
+                            choice = false;
+                        }
+                        break;
+                    case "8":
+                        {
+                            choice = false;
+                        }
+                        break;
                     default:
                         choice = false;
                         break;
